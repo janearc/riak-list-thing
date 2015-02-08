@@ -1,0 +1,32 @@
+{
+  "name": "rlt",
+  "version": "0.0.1",
+  "description": "A list-like object representing a bucket in riak",
+  "main": "lib/rlt.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janearc/riak-list-thing.git"
+  },
+  "keywords": [
+    "riak",
+    "list",
+    "distributed",
+    "mapreduce"
+  ],
+  "dependencies": {
+    "riak-dc": ">=0.2.7",
+    "log4js" : "*"
+  },
+  "author": "Jane Arc <jane@cpan.org> (https://github.com/janearc)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/janearc/riak-list-thing/issues"
+  },
+  "homepage": "https://github.com/janearc/riak-list-thing"
+}
