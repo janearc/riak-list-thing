@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "riak-dc": ">=0.2.7",
+    "xact-id-tiny": ">=0.0.2",
     "log4js" : "*"
   },
   "author": "Jane Arc <jane@cpan.org> (https://github.com/janearc)",
